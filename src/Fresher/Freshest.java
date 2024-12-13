@@ -5,6 +5,7 @@ public class Freshest {
 		System.out.println("Time for some review");
 		String num1 = "a";
 		String num2 = "b";
+		// practicing stashes
 	
 		if ( num1 == num2) {
 			System.out.println("a is equal to 2");
