@@ -17,7 +17,7 @@ public class Freshest {
 		
 	}
 	
-	
+	// in order to avoid conflicts we should always stash before and after push and pull
 		
 	}
 
